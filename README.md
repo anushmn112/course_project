@@ -1,7 +1,8 @@
 # Getting and Cleaning Data - Course Project
 
-##This is the course project for the Getting and Cleaning Data Coursera course.
-###The included R script, run_analysis.R, conducts the following:
+This is the course project for the Getting and Cleaning Data Coursera course.
+
+The included R script, run_analysis.R, conducts the following:
 
 1. Download the dataset from web if it does not already exist in the working directory.
 2. Read both the train and test datasets and merge them into x(measurements), y(activity) and subject, respectively.
